@@ -40,7 +40,7 @@ const Projects = () => {
         we did the presentation.
       </p>
       <p className="text" data-aos="fade-right">
-        Although the ultrasonic sensor did not work, I am curios to learn if it
+        Although the ultrasonic sensor did not work, I am curious to learn if it
         could. If it works, then it would work tremendously better than the
         touch sensor, because it would be able to detect the walls and not hit
         them.
