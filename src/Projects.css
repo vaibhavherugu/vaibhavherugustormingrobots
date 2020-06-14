@@ -1,0 +1,18 @@
+.header3 {
+  margin-top: 5%;
+  color: #000;
+  text-align: center;
+  font-size: 60px;
+  font-family: "Bebas Neue", sans-serif;
+}
+.text {
+  color: #000;
+  text-align: center;
+  font-family: "Archivo Narrow", sans-serif;
+}
+.video {
+  align-items: center;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}

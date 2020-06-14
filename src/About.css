@@ -1,0 +1,16 @@
+.header2 {
+  font-family: "Bebas Neue", sans-serif;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 5%;
+  width: 100%;
+  color: #000;
+  letter-spacing: 3px;
+  justify-content: center;
+}
+.text {
+  text-align: center;
+  display: flex;
+  max-width: 70%;
+  font-family: "Archivo Narrow", sans-serif;
+}
